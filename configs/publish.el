@@ -25,9 +25,9 @@
       :exclude "rss.org\\|index.org\\|.*/private/.*"
       :auto-sitemap t
       :sitemap-filename "index.org"
-      :sitemap-title "Poem"
+      :sitemap-title "archives"
       :sitemap-format-entry org-sitemap-custom-entry-format
-      :html-head-extra "<link rel=\"stylesheet\" href=\"/_css/style.css\">"
+      :html-head-extra "<link rel=\"stylesheet\" href=\"_css/style.css\">"
       :html-link-home ".."
       :author "Quan Vu"
       :email "vuhongquanbk97@gmail.com")
