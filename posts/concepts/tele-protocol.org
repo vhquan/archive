@@ -1,0 +1,7 @@
+#+TITLE: Communication Protocol
+#+DATE: <2021-01-01 Fri 11:23>
+A *communication protocol* is a system of rules that allow two or more entities of a communication system to transmit information via any kind of variation of a physical quantity.
+The protocol defines the rules, syntax, semantics and synchronization of communication and possible error recovery methods. Protocols may be implemented by hardware, software or a combination of both.
+
+Communicating system use well-defined formats for exchanging various messages. Each message has an exact meaning intended to elicit a response from a range of possible responses pre-determined for that particular situation. The specified behavior is typically 
+independent of how it is to be implemented.
